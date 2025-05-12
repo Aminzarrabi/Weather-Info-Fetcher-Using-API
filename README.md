@@ -1,1 +1,1 @@
-# Weather-Info-Fetcher-Using-API
+This project is a simple and practical tool for retrieving weather information using an external API. By entering the name of a city, users can get up-to-date weather details in the form of a structured pandas DataFrame. The data typically includes temperature, humidity, sky condition, wind speed, and more.
